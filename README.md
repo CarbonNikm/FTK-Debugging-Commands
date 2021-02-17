@@ -4,8 +4,11 @@ Contact Nikm#0482 in the official FTK Discord for help.
 
 ## Commands:
 /give \[item_name]
+
 /partyheal
+
 /reveal
+
 /unreveal
 
 ## Installation
