@@ -18,6 +18,6 @@ Contact Nikm#0482 in the official FTK Discord for help.
 
 ## Building
 
-Add solution as a C# dll targetting .NET 3.5 framework.
-Add references from your FTK_Data/Managed folder, as well as MelonLoader.ModHandler.dll
-You should be able to build it, and use the created dll in the mod folder
+1. Add solution as a C# dll targetting .NET 3.5 framework.
+2. Add references from your FTK_Data/Managed folder, as well as MelonLoader.ModHandler.dll
+3. You should be able to build it, and use the created dll in the mod folder
