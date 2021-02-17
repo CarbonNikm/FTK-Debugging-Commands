@@ -12,7 +12,7 @@ Contact Nikm#0482 in the official FTK Discord for help.
 
 /unreveal
 
-![Click to watch sample video](https://i.imgur.com/AYNqAMH.mp4)
+Samplevideo at: https://i.imgur.com/AYNqAMH.mp4
 
 ## Installation
 
